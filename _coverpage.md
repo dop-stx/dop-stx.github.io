@@ -1,14 +1,10 @@
+#  Apache Curator 系列学习
 
-![logo](https://spring.io/icons/icon-144x144.png?v=96334d577af708644f6f0495dd1c7bc8)
+> 试下写个Apache Curator相关的专栏，这是原始版本，暂定包括下面的栏目：
 
-#  springboot <small>入门简介</small>
-
-> 试下写个Spring相关的专栏，这是原始版本，暂定包括下面的栏目：
-
-- `SpringBoot`入门系列 
-- `SpringBoot`进阶和实战
-- `SpringBoot`源码系列
+- `Apache Curator Framework`入门系列 
+- `Apache Curator Recipes`   进阶和实战
+- `Apache Curator-X`                 进阶和实战
 
 [GitHub](https://dop-stx.github.io/)
-[Get Started](springboothelloworld.md)
-
+[Get Started](ApacheCuratorFramework介绍.md)
