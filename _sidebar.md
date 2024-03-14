@@ -12,7 +12,7 @@
  * [分布式队列(Queues)](分布式队列.md)
  * [分布式原子广播(AtomicBroadcast)](分布式原子广播.md)
  * [分布式屏障(Barriers)](分布式屏障.md)
- * [缓存模式(CachePattern)](缓存模式.md)
+ * [缓存模式(CachePattern)](分布式缓存.md)
 
 * Apache Curator X 进阶和实战
 
